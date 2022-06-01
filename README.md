@@ -5,3 +5,5 @@ Handson Project done during YBI internship.
    -> Task 2 - Hand Written Digit Prediction-Classification Analysis.<br>
 2) Bank Customer Churn Model<br>
 3) Car Price Prediction<br>
+4) Bike Price Prediction<br>
+
